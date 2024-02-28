@@ -6,8 +6,8 @@ This script is used to detect mod updates and restart automatically, only suppor
 - Python Lts
 
 ## Installation
-- make sure all **config.json** was correctly
 - download code [Download here](https://github.com/alfari24/auto-restart-project-zomboid/releases/tag/v1.0.0)
+- make sure all **config.json** was correctly
 - Install Package using ```pip install -r requirements.txt```
 - Run bot using ```python3 main.py``` or ```python main.py```
 
