@@ -25,3 +25,9 @@ This script is used to detect mod updates and restart automatically, only suppor
 }
 ```
 ## Show up
+- Discord Announce
+![IndoPZ](https://github.com/alfari24/auto-restart-project-zomboid/blob/main/img/Screenshot%202024-02-28%20082039.png)
+![EndZ](https://github.com/alfari24/auto-restart-project-zomboid/blob/main/img/Screenshot%202024-02-28%20082103.png)
+
+- Pterodactyl Running Bot
+![Bot](https://github.com/alfari24/auto-restart-project-zomboid/blob/main/img/Screenshot%202024-02-28%20082214.png)
