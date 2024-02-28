@@ -1,0 +1,17 @@
+{
+    "docPath"         : "./",
+    "serverName"      : "pzserver.ini",
+    "IP_ADDRESS"      : "serverip:27015",
+    "IPSERVER"        : "serverip",
+    "PORT"            : "16261",
+    "PASSWORD_RCON"   : "you_password",
+    "admin"           : 1102032173340573817, 
+    "notifyChannel"   : 1074483557810065501,
+    "warga"           : 1174003582954127410,
+    "panel_url"       : "https://panel.example.com/",
+    "apikey"          : "ptlc_....",
+    "botToken"        : " ",
+    "server_id"       : "pterodactyl server id",
+    "gif_url_restart" : "https://media1.tenor.com/m/bGCuW8uql2kAAAAC/office-server.gif",
+    "gif_url_running" : "https://media1.tenor.com/m/e2VK6sB1TX0AAAAd/online-server.gif"
+}
