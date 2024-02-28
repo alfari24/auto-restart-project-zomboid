@@ -5,6 +5,12 @@ This script is used to detect mod updates and restart automatically, only suppor
 - server Project Zomboid must be Running at **Pterodactyl**
 - Python Lts
 
+## What Code do ?
+- send message when detect mode update
+- send message to ingame (count down) and discord channel
+- do restart the server project zomboid via ApiKey Pterodactyl
+- send message **server running** when restart was successfuly
+
 ## Config.json \ explain
 ```{
     "docPath"         : "./",                     # Mod ID directory, if dont know, dont change it
