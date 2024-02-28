@@ -31,3 +31,12 @@ This script is used to detect mod updates and restart automatically, only suppor
 
 - Pterodactyl Running Bot
 ![Bot](https://github.com/alfari24/auto-restart-project-zomboid/blob/main/img/Screenshot%202024-02-28%20082214.png)
+
+## Attention
+- you can added mod like :  ```WorkshopItems=2939104168;2932265300;``` inside folder **Server** and find file name **pzserver.ini**, you can follow example at that file.
+- when u update mod list, u need remove moddata.json and start/restart the bot
+![Moddata.json](https://github.com/alfari24/auto-restart-project-zomboid/blob/main/img/remove%20moddata.png)
+
+
+# To contribute, please fork this repository and make a pull request
+## [Discord Group](https://discord.alfari.id)
