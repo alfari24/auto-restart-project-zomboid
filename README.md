@@ -10,7 +10,8 @@ This script is used to detect mod updates and restart automatically, only suppor
 - make sure all **config.json** was correctly
 - Install Package using ```pip install -r requirements.txt```
 - Run bot using ```python3 main.py``` or ```python main.py```
-
+- Change `rcon` file permission to 777
+  
 ## What Code do ?
 - send message when detect mode update
 - send message to ingame (count down) and discord channel
